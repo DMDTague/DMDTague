@@ -1,4 +1,28 @@
-## Hi there 👋
+👋 Hi there, I’m Dylan Tague
+
+- 🔭 **I'm Currently working on:**  
+  Transforming Pennsylvania public datasets (school attendance, SEPTA ridership, etc.) into clean, interactive dashboards and repeatable analytics pipelines.
+
+- 🌱 **I'm Currently learning:**  
+  Advanced SQL, data storytelling, and BI best practices to build stronger end-to-end analytics workflows.
+
+- 👯 **Looking to collaborate on:**  
+  Projects that turn messy, real-world data into decision-ready insights or prototype analytics tools.
+
+- 🤔 **Looking for help with:**  
+  Structuring analytics projects for scalability, documentation, and dashboard design patterns.
+
+- 💬 **Ask me about:**  
+  My love for probability, modeling, and making complex data simple.
+
+- 📫 **How to reach me:**  
+  **dylantague.com** or my email dylantague7704@gmail.com
+
+- 😄 **Pronouns:**  
+  he/him
+
+- ⚡ **Fun fact:**  
+  My cat’s name is **Mac** — I found him as a kitten inside a McDonald’s dumpster, meowing and eating French fries. 🐈
 
 <!--
 **DMDTague/DMDTague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
