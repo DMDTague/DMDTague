@@ -17,7 +17,7 @@ I'm obsessed with tracing problems all the way down, and understanding *why* som
 
 #### Fun Facts:
 
-* I have two cats — my tuxedo cat named **Leonard**, (a fancy name for a fancy cat), and **Mac**, who I rescued as a kitten from a McDonald’s trash can while he was eating fries.
+* I have two cats — my tuxedo cat named **Leonard**, (a fancy name for a fancy cat), and **Mac**, who I rescued as a kitten from a McDonald’s dumpster.
 * I love chess, physics, and mathematics.
 * I break things apart until I understand them — then I rebuild them better.
 
