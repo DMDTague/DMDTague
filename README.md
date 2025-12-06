@@ -13,7 +13,7 @@ On my GitHub you’ll see **three core repo themes**:
 - AI / model experiments  
 - Systems, automation, and tooling I build for myself  
 
-I'm obsessed with tracing problems all the way down — understanding *why* something happens, not just *what* happened.
+I'm obsessed with tracing problems all the way down, and understanding *why* something happens, not just *what* happened.
 
 #### Fun Facts:
 
