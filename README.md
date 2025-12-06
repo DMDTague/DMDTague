@@ -1,40 +1,26 @@
-👋 Hi there, I’m Dylan Tague
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-- 🔭 **I'm Currently working on:**  
-  Transforming Pennsylvania public datasets (school attendance, SEPTA ridership, etc.) into clean, interactive dashboards and repeatable analytics pipelines.
+I’m [**Dylan**](https://www.dylantague.com), a data analyst based in Philadelphia, PA.
 
-- 🌱 **I'm Currently learning:**  
-  Advanced SQL, data storytelling, and BI best practices to build stronger end-to-end analytics workflows.
+I dive deep into messy data, clarify what matters, and build tools that surface real answers.  
+If there’s a question I don’t understand, I pull datasets, dig through the noise, and won’t stop until the insights are clear.
 
-- 👯 **Looking to collaborate on:**  
-  Projects that turn messy, real-world data into decision-ready insights or prototype analytics tools.
+My main stack is **Python**, **Pandas**, and **Google Colab**, plus experience building systems, running models locally, and exploring complex datasets.
 
-- 🤔 **Looking for help with:**  
-  Structuring analytics projects for scalability, documentation, and dashboard design patterns.
+Some of my favorite work includes the **SEPTA analysis project**, where I pulled real-world transit data and started breaking down user behavior, patterns, and system performance.  
+On my GitHub you’ll see **three core repo themes**:  
+- Data analysis & exploration  
+- AI / model experiments  
+- Systems, automation, and tooling I build for myself  
 
-- 💬 **Ask me about:**  
-  My love for probability, modeling, and making complex data simple.
+I'm obsessed with tracing problems all the way down — understanding *why* something happens, not just *what* happened.
 
-- 📫 **How to reach me:**  
-  **dylantague.com** or my email dylantague7704@gmail.com
+#### Fun Facts:
 
-- 😄 **Pronouns:**  
-  he/him
+* I have two cats — my tuxedo cat named **Leonard**, (a fancy name for a fancy cat), and **Mac**, who I rescued as a kitten from a McDonald’s trash can while he was eating fries.
+* I love chess, physics, and mathematics.
+* I break things apart until I understand them — then I rebuild them better.
 
-- ⚡ **Fun fact:**  
-  I have two cats, one is a Tuxeduo cat named **Leonard** and my Orange Tabby named **Mac** (who I found as a kitten inside a McDonald’s dumpster, meowing and eating French fries🐈).
-
-<!--
-**DMDTague/DMDTague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Links:
+- 🌐 Personal Website: **https://www.dylantague.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/dylanmdtague/**
