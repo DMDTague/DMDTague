@@ -22,7 +22,7 @@
   he/him
 
 - ⚡ **Fun fact:**  
-  I have two cats, one is a Tuxeduo cat named **Leonard** and my Orange Tabby named **Mac** (who I found him as a kitten inside a McDonald’s dumpster, meowing and eating French fries🐈).
+  I have two cats, one is a Tuxeduo cat named **Leonard** and my Orange Tabby named **Mac** (who I found as a kitten inside a McDonald’s dumpster, meowing and eating French fries🐈).
 
 <!--
 **DMDTague/DMDTague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
