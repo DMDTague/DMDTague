@@ -21,6 +21,4 @@ I'm obsessed with understanding *why* something happens, not just *what* happene
 * **Hobbies:** data visualization, creative writing, gaming
 
 #### Links:
-
-- 🌐 **https://www.dylantague.com**
 - 💼 **https://www.linkedin.com/in/dylanmdtague/**
