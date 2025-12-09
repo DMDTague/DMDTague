@@ -22,3 +22,4 @@ I'm obsessed with understanding *why* something happens, not just *what* happene
 
 #### Links:
 - 💼 **https://www.linkedin.com/in/dylanmdtague/**
+- 💼 **https://vercel.com/dmdtagues-projects**
