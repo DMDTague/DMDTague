@@ -18,7 +18,7 @@ I'm obsessed with understanding *why* something happens, not just *what* happene
 
 * I have two cats — **Leonard** and **Mac**
 * I love chess, physics, and mathematics
-* **Hobbies:** data visualization, creative writing, gaming
+* My hobbies include data visualization, creative writing, and gaming!
 
 #### Links:
 - 💼 **https://www.linkedin.com/in/dylanmdtague/**
