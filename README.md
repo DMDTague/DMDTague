@@ -5,12 +5,12 @@
 <div align="center">
 
 ```
- ____         _              _____                       
-|  _ \ _   _ | | __ _ _ __  |_   _|_ _  __ _ _   _  ___   
-| | | | | | || |/ _` | '_ \   | |/ _` |/ _` | | | |/ _ \  
-| |_| | |_| || | (_| | | | |  | | (_| | (_| | |_| |  __/  
-|____/ \__, ||_|\__,_|_| |_|  |_|\__,_|\__, |\__,_|\___|  
-       |___/                           |___/              
+                     ____         _              _____                       
+                    |  _ \ _   _ | | __ _ _ __  |_   _|_ _  __ _ _   _  ___   
+                    | | | | | | || |/ _` | '_ \   | |/ _` |/ _` | | | |/ _ \  
+                    | |_| | |_| || | (_| | | | |  | | (_| | (_| | |_| |  __/  
+                    |____/ \__, ||_|\__,_|_| |_|  |_|\__,_|\__, |\__,_|\___|  
+                           |___/                           |___/              
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+root%40dylan%3A~%24+whoami;Data+Analyst+%7C+Mathematics+Major;%3E+compiling+messy_data.csv...;%3E+status%3A+INSIGHTS_FOUND;Obsessed+with+understanding+WHY" alt="Typing SVG" />
@@ -110,10 +110,6 @@
 <a href="https://www.linkedin.com/in/dylanmdtague/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
 <a href="https://vercel.com/dmdtagues-projects"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" /></a>
 <a href="https://github.com/DMDTague"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00FF" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=DMDTague&style=for-the-badge&color=39FF14&labelColor=000000" alt="Profile Views"/>
 
 <br><br>
 
