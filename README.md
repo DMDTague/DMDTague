@@ -15,9 +15,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+root%40dylan%3A~%24+whoami;Data+Analyst+%7C+Mathematics+Major;%3E+compiling+messy_data.csv...;%3E+status%3A+INSIGHTS_FOUND;Obsessed+with+understanding+WHY" alt="Typing SVG" />
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=000000" />
-<img src="https://img.shields.io/badge/LOCATION-PHILADELPHIA,_PA-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/UPTIME-5%2B_YEARS-00FFFF?style=for-the-badge&logo=clockify&logoColor=black&labelColor=000000" />
+<img src="assets/status-bar.svg" width="80%" alt="Status Bar"/>
 
 </div>
 
@@ -26,7 +24,6 @@
 ```ansi
 [0;32mroot@dylan:~$[0m cat about_me.txt
 ```
-
 - `🎓` Completing a **B.A. in Mathematics** — deep, logical system architecture is the whole point.
 - `🔍` **Current focus:** real-world data patterns + predictive/social platforms.
 - `⚡` **Mode:** always debugging something — code, proofs, or both.
@@ -103,7 +100,7 @@
 
 - `🐈` Running background processes with my two cats, **Leonard** and **Mac**.
 - `🥊` Training **Kickboxing** and **Brazilian Jiu-Jitsu**
-- `🎹` Learning or Composing piano pieces
+- `🎹` Composing piano pieces / Rocking out to some Jeff Buckley or Radiohead.
 - `♟️` Grinding blitz chess online (currently hovering around 1500 Elo).
 
 <br>
