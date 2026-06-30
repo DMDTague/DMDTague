@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="642cd381c872075ae75a228284b262de.jpg" width="100%" alt="Banner">
+  <img src="642cd381c872075ae75a228284b262de.gif" width="100%" alt="Banner">
 </div>
 
 <h1 align="center">Hi, I'm Dylan <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="35"/></h1>
