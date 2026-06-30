@@ -81,9 +81,9 @@
 
 <div align="center">
 
-### `>` contribution_graph.exe
+### `>` contribution_snake.exe
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DMDTague&theme=react-dark&hide_border=true&bg_color=0D1117&color=39FF14&line=00FFFF&point=FF00FF" width="100%"/>
+<img src="https://raw.githubusercontent.com/DMDTague/DMDTague/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
