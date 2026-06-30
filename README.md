@@ -15,7 +15,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+root%40dylan%3A~%24+whoami;Data+Analyst+%7C+Mathematics+Major;%3E+compiling+messy_data.csv...;%3E+status%3A+INSIGHTS_FOUND;Obsessed+with+understanding+WHY" alt="Typing SVG" />
 
-<img src="assets/status-bar.svg" width="80%" alt="Status Bar"/>
+<img src="status-bar.svg" width="80%" alt="Status Bar"/>
 
 </div>
 
