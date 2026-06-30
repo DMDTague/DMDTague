@@ -27,8 +27,6 @@
 [0;32mroot@dylan:~$[0m cat about_me.txt
 ```
 
-> I bridge the gap between heavy analytical problem-solving and software engineering. Feed me a dataset that doesn't make sense yet — I won't stop until it does.
-
 - `🎓` Completing a **B.A. in Mathematics** — deep, logical system architecture is the whole point.
 - `🔍` **Current focus:** real-world data patterns + predictive/social platforms.
 - `⚡` **Mode:** always debugging something — code, proofs, or both.
