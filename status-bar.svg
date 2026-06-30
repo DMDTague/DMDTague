@@ -1,0 +1,56 @@
+<svg width="760" height="46" viewBox="0 0 760 46" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: transparent; }
+      .term {
+        font-family: 'Courier New', monospace;
+        font-size: 16px;
+        font-weight: 700;
+      }
+      .green { fill: #39FF14; }
+      .magenta { fill: #FF00FF; }
+      .cyan { fill: #00FFFF; }
+      .sep { fill: #4a4a4a; }
+      .dot {
+        fill: #39FF14;
+        filter: drop-shadow(0 0 4px #39FF14);
+        animation: pulse 1.6s ease-in-out infinite;
+      }
+      .cursor {
+        fill: #39FF14;
+        animation: blink 1s steps(1, end) infinite;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; r: 5.5; }
+        50% { opacity: 0.35; r: 4.5; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" width="760" height="46"/>
+
+  <!-- status dot + label -->
+  <circle class="dot" cx="14" cy="23" r="5.5"/>
+  <text x="28" y="29" class="term green">ONLINE</text>
+
+  <text x="125" y="29" class="term sep">::</text>
+
+  <!-- location -->
+  <text x="150" y="29" class="term magenta">PHILADELPHIA, PA</text>
+
+  <text x="345" y="29" class="term sep">::</text>
+
+  <!-- uptime -->
+  <text x="370" y="29" class="term cyan">5+ YRS UPTIME</text>
+
+  <text x="565" y="29" class="term sep">::</text>
+
+  <!-- terminal prompt -->
+  <text x="590" y="29" class="term green">root@dylan</text>
+  <text x="700" y="29" class="term sep">~$</text>
+  <rect class="cursor" x="730" y="13" width="9" height="17"/>
+</svg>
