@@ -21,8 +21,8 @@
 
 <br>
 
-```ansi
-[0;32mroot@dylan:~$[0m cat about_me.txt
+```
+root@dylan:~$ cat about_me.txt
 ```
 - `🎓` Completing a **B.A. in Mathematics** — deep, logical system architecture is the whole point.
 - `🔍` **Current focus:** real-world data patterns + predictive/social platforms.
@@ -93,9 +93,9 @@
 
 ## `>` ./offline_mode.sh
 
-```ansi
-[0;36m[SYS][0m process not found: python_scripts.exe
-[0;36m[SYS][0m switching to → IRL_MODE
+```
+[SYS] process not found: python_scripts.exe
+[SYS] switching to → IRL_MODE
 ```
 
 - `🐈` Running background processes with my two cats, **Leonard** and **Mac**.
