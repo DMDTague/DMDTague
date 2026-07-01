@@ -24,7 +24,7 @@
 ```
 root@dylan:~$ cat about_me.txt
 ```
-- `🎓` Completing a **B.A. in Mathematics** — deep, logical system architecture is the whole point.
+- `🎓` Completing a **B.A. in Mathematics**
 - `🔍` **Current focus:** real-world data patterns + predictive/social platforms.
 - `⚡` **Mode:** always debugging something — code, proofs, or both.
 
