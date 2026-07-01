@@ -207,7 +207,7 @@ dylan@dev:~$ ps aux | grep python
 ```
 
 - `🐈` Running background processes with my two cats, **Leonard** and **Mac** — `chown -R cats:cats /home/dylan`
-- `🥊` Training **Kickboxing** and **Brazilian Jiu-Jitsu** — physical exception handling.
+- `🥊` Training **Kickboxing** and **Brazilian Jiu-Jitsu**
 - `🎹` Composing piano pieces / rocking out to **Jeff Buckley** and **Radiohead**.
 - `♟️` Grinding blitz chess online — roughly 1500 Elo and climbing... usually.
 
