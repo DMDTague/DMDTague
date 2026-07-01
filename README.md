@@ -7,12 +7,19 @@
 <div align="center">
 
 <pre>
-                     ____         _              _____
-                    |  _ \ _   _ | | __ _ _ __  |_   _|_ _  __ _ _   _  ___
-                    | | | | | | || |/ _` | '_ \   | |/ _` |/ _` | | | |/ _ \
-                    | |_| | |_| || | (_| | | | |  | | (_| | (_| | |_| |  __/
-                    |____/ \__, ||_|\__,_|_| |_|  |_|\__,_|\__, |\__,_|\___|
-                           |___/                           |___/
+██████╗ ██╗   ██╗██╗      █████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗████╗  ██║
+██║  ██║ ╚████╔╝ ██║     ███████║██╔██╗ ██║
+██║  ██║  ╚██╔╝  ██║     ██╔══██║██║╚██╗██║
+██████╔╝   ██║   ███████╗██║  ██║██║ ╚████║
+╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
+████████╗ █████╗  ██████╗ ██╗   ██╗███████╗
+╚══██╔══╝██╔══██╗██╔════╝ ██║   ██║██╔════╝
+   ██║   ███████║██║  ███╗██║   ██║█████╗  
+   ██║   ██╔══██║██║   ██║██║   ██║██╔══╝  
+   ██║   ██║  ██║╚██████╔╝╚██████╔╝███████╗
+   ╚═╝   ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=2500&amp;pause=800&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=%3E+dylan%40dev%3A~%24+whoami;Data+Analyst+%7C+Mathematics+Major;%3E+parsing+messy_data.csv+...+done;%3E+anomaly+detected%3A+curiosity+%3D+unbounded;%3E+status%3A+INSIGHTS_FOUND;Obsessed+with+understanding+WHY" alt="Typing SVG">
@@ -168,33 +175,22 @@ drwxr-xr-x  frontend/         # when it needs to be seen
 ## `>` ./pull_stats.sh --live
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMDTague&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=39FF14&amp;icon_color=00FFFF&amp;text_color=c9d1d9&amp;show_icons=true&amp;count_private=true" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com/?user=DMDTague&amp;hide_border=true&amp;background=0D1117&amp;ring=39FF14&amp;fire=FF00FF&amp;currStreakLabel=39FF14&amp;sideLabels=00FFFF&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=c9d1d9&amp;stroke=39FF14" alt="GitHub Streak" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=DMDTague&amp;hide_border=true&amp;background=0D1117&amp;ring=39FF14&amp;fire=FF00FF&amp;currStreakLabel=39FF14&amp;sideLabels=00FFFF&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=c9d1d9&amp;stroke=39FF14" width="58%" alt="">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMDTague&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=39FF14&amp;text_color=c9d1d9" alt="Top Languages" width="40%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMDTague&amp;bg_color=0D1117&amp;color=39FF14&amp;line=00FFFF&amp;point=FF00FF&amp;area=true&amp;area_color=39FF14&amp;hide_border=true&amp;custom_title=commit_signal.wav" width="95%" alt="">
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DMDTague&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="GitHub Trophies" width="95%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMDTague&amp;bg_color=0D1117&amp;color=39FF14&amp;line=00FFFF&amp;point=FF00FF&amp;area=true&amp;area_color=39FF14&amp;hide_border=true&amp;custom_title=commit_signal.wav" alt="Activity Graph" width="95%">
-</div>
 
 <div align="center">
 
 ### `>` contribution_snake.exe
 
-<img src="https://raw.githubusercontent.com/DMDTague/DMDTague/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
+<img src="https://raw.githubusercontent.com/DMDTague/DMDTague/output/github-contribution-grid-snake.svg" width="100%" alt="">
 
 </div>
 
