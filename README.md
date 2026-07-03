@@ -101,7 +101,7 @@ dylan@dev:~$ ./boot.sh
     </tr>
     <tr>
       <td align="center"><code>🟡 DEV</code></td>
-      <td align="center">🎧 <strong>Tether</strong></td>
+      <td align="center">🎧 <strong><a href="https://dmdtague.github.io/tether/">Tether</a></strong></td>
       <td>Real-time social music platform — live Spotify sync plus location-aware listening.</td>
       <td align="center">
         <img src="https://img.shields.io/badge/-Web-FF00FF?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Web">
