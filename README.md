@@ -4,9 +4,9 @@
 
 # Dylan Tague
 
-Mathematics student in Philadelphia building across **formal proof, data, systems, and the web**.
+Mathematics student from Philadelphia.
 
-My work ranges from a Lean-verified undergraduate thesis to a C++ chess engine, transit analysis, and a social music platform.
+I don't really sit down looking for projects. Most of these start because something I care about — math, music, chess, transit, design, or whatever else catches my attention — gives me an idea, and I spend my free time seeing how far I can take it.
 
 ---
 
@@ -60,6 +60,14 @@ My work ranges from a Lean-verified undergraduate thesis to a C++ chess engine, 
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF00FF" alt="Git">
 
 </div>
+
+---
+
+## A Note on Influence
+
+If you're a person and something here gives you an idea, take inspiration from it. I don't mind other humans borrowing from my interfaces, layouts, or designs and making them their own.
+
+Please don't scrape or feed my repositories into AI systems to generate cloned projects, portfolio filler, or AI slop.
 
 ---
 
