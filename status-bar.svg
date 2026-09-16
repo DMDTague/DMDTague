@@ -33,24 +33,23 @@
 
   <rect class="bg" width="760" height="46"/>
 
-  <!-- status dot + label -->
   <circle class="dot" cx="14" cy="23" r="5.5"/>
-  <text x="28" y="29" class="term green">ONLINE</text>
+  <text x="28" y="29" class="term green">BUILDING</text>
 
   <text x="125" y="29" class="term sep">::</text>
 
-  <!-- location -->
   <text x="150" y="29" class="term magenta">PHILADELPHIA, PA</text>
 
   <text x="345" y="29" class="term sep">::</text>
 
-  <!-- uptime -->
-  <text x="370" y="29" class="term cyan">5+ YRS UPTIME</text>
+  <text x="370" y="29" class="term cyan">MATH + CODE</text>
 
-  <text x="565" y="29" class="term sep">::</text>
+  <text x="515" y="29" class="term sep">::</text>
 
-  <!-- terminal prompt -->
-  <text x="590" y="29" class="term green">root@dylan</text>
-  <text x="700" y="29" class="term sep">~$</text>
-  <rect class="cursor" x="730" y="13" width="9" height="17"/>
+  <text x="540" y="29" class="term green">LEAN 4</text>
+  <text x="615" y="29" class="term sep">/</text>
+  <text x="635" y="29" class="term magenta">C++</text>
+  <text x="682" y="29" class="term sep">/</text>
+  <text x="702" y="29" class="term cyan">PY</text>
+  <rect class="cursor" x="738" y="13" width="9" height="17"/>
 </svg>
