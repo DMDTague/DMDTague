@@ -1,100 +1,71 @@
 <div align="center">
   <img src="642cd381c872075ae75a228284b262de.gif" width="100%" alt="Dylan Tague profile banner">
-
-  <br><br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=math+%2B+code+%2B+too+many+side+projects;formalizing+proofs+until+Lean+stops+arguing;occasionally+building+things+that+should+have+stayed+small" alt="Typing intro">
-
-  <br>
-
-  <img src="status-bar.svg" width="78%" alt="Profile status bar">
 </div>
 
-## `> whoami`
+# Dylan Tague
 
-```text
-Dylan Tague
-Philadelphia, PA
-B.A. Mathematics — in progress
+Mathematics student in Philadelphia building across **formal proof, data, systems, and the web**.
 
-Current rabbit holes:
-  • discrete mathematics + formal proof
-  • data analysis + public-data projects
-  • software that grows past its original scope
-```
-
-I spend most of my time somewhere between mathematics, formal verification, data, and software. My current thesis work is on **exact list-edge labelings of bipartite multigraphs**, with the accompanying results formalized in **Lean 4**.
-
-`status:` trying to convince Lean that I meant what I wrote.
+My work ranges from a Lean-verified undergraduate thesis to a C++ chess engine, transit analysis, and a social music platform.
 
 ---
 
-## `> ls ./current-projects`
+## Featured Projects
 
-### ∀ [Exact List Edge Labelings](https://github.com/DMDTague/ExactListEdgeLabelings)
-My undergraduate mathematics thesis and its **Lean 4 / Mathlib formalization**. The project develops an exact-list lower bound for finite bipartite multigraphs, Latin-square consequences, and related cubic bipartite graph structure while keeping proved results, literature inputs, finite evidence, and open conjectures clearly separated.
-
-### 🎧 [Tether](https://github.com/DMDTague/tether)
-A music-centered social product prototype built around synchronized listening. It combines a browser prototype with a **FastAPI** backend for profiles, reviews, lists, messaging, presence, shared sessions, discovery, and privacy/safety controls.
-
-### ♟️ [Pickle](https://github.com/DMDTague/Pickle)
-A chess engine written from scratch in **C++**. Board representation, attack generation, move generation, evaluation, and the other mildly unreasonable things that happen after deciding a chess engine would be a fun side project.
-
-### 🚇 [SEPTA Recovery Atlas](https://github.com/DMDTague/Septa-Dashboard)
-An interactive Philadelphia transit dashboard combining historical ridership analysis with live SEPTA vehicle, Regional Rail, and detour data. Built with **React, Vite, Leaflet, and Recharts**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>∀ <a href="https://github.com/DMDTague/ExactListEdgeLabelings">Exact List Edge Labelings</a></h3>
+      <p>My undergraduate mathematics thesis and its <strong>Lean 4 / Mathlib formalization</strong>.</p>
+      <p>Exact-list bounds for finite bipartite multigraphs, Latin-square consequences, and related cubic bipartite graph structure.</p>
+      <p><code>Lean 4</code> <code>Mathlib</code> <code>Combinatorics</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 <a href="https://github.com/DMDTague/tether">Tether</a></h3>
+      <p>A music-centered social platform prototype built around synchronized listening.</p>
+      <p>Profiles, reviews, lists, messaging, discovery, shared sessions, presence, and privacy/safety systems.</p>
+      <p><code>FastAPI</code> <code>JavaScript</code> <code>WebSockets</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>♟️ <a href="https://github.com/DMDTague/Pickle">Pickle</a></h3>
+      <p>A chess engine written from scratch in <strong>C++</strong>.</p>
+      <p>Board representation, attack generation, move generation, evaluation, search infrastructure, and engine tooling.</p>
+      <p><code>C++</code> <code>Bitboards</code> <code>Chess</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚇 <a href="https://github.com/DMDTague/Septa-Dashboard">SEPTA Recovery Atlas</a></h3>
+      <p>An interactive Philadelphia transit dashboard combining historical ridership analysis with live SEPTA feeds.</p>
+      <p>Maps, recovery trends, Regional Rail performance, detours, exports, and exploratory network tools.</p>
+      <p><code>React</code> <code>Vite</code> <code>Leaflet</code> <code>Recharts</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `> cat toolbox.txt`
+## Tools & Languages
 
 <div align="center">
 
-**Math / Formalization**
-
 <img src="https://img.shields.io/badge/Lean_4-0D1117?style=for-the-badge&logo=lean&logoColor=39FF14" alt="Lean 4">
-<img src="https://img.shields.io/badge/Mathlib-0D1117?style=for-the-badge&logoColor=39FF14" alt="Mathlib">
-
-**Data**
-
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python">
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=39FF14" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=39FF14" alt="NumPy">
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=39FF14" alt="Jupyter">
-
-**Build Stuff**
-
 <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF" alt="C++">
 <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FFFF" alt="FastAPI">
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FF00FF" alt="React">
 <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FF00FF" alt="Vite">
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=39FF14" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=39FF14" alt="NumPy">
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF00FF" alt="Git">
 
 </div>
 
 ---
 
-## `> ./offline_mode.sh`
+## Beyond the Projects
 
-```console
-$ ps aux | grep productivity
-math      running
-music     running
-cats      definitely running
-```
-
-Outside the terminal: kickboxing/BJJ, blitz chess, piano, Jeff Buckley, Radiohead, and two cats — **Leonard** and **Mac** — who continue to contribute nothing to code review.
-
-<details>
-<summary><code>> cat philosophy.txt</code></summary>
-
-<br>
-
-```text
-Most bugs aren't in the code. They're in the assumptions.
-Trace the problem to its root, not to the first place it hurts.
-```
-
-</details>
+Kickboxing/BJJ, blitz chess, piano, Jeff Buckley, Radiohead, and two cats named **Leonard** and **Mac**.
 
 ---
 
