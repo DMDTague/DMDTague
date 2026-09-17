@@ -30,9 +30,9 @@ I don't really sit down looking for projects. Most of these start because someth
   <tr>
     <td width="50%" valign="top">
       <h3>♟️ <a href="https://github.com/DMDTague/Pickle">Pickle</a></h3>
-      <p>A chess engine written from scratch in <strong>C++</strong>.</p>
-      <p>Board representation, attack generation, move generation, evaluation, search infrastructure, and engine tooling.</p>
-      <p><code>C++</code> <code>Bitboards</code> <code>Chess</code></p>
+      <p>A from-scratch <strong>C++</strong> chess engine built around my own search and handcrafted evaluation, currently around 2450 local calibrated Elo.</p>
+      <p>Alpha-beta/PVS search, transposition tables, PickleBook, UCI support, engine testing, and WebAssembly browser play.</p>
+      <p><code>C++</code> <code>Alpha-Beta</code> <code>WebAssembly</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🚇 <a href="https://github.com/DMDTague/Septa-Dashboard">SEPTA Recovery Atlas</a></h3>
