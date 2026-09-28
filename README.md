@@ -69,7 +69,7 @@ Please don't scrape or feed my repositories into AI systems to generate cloned p
 
 ---
 
-## Beyond the Projects
+## Beyond Projects
 
 Kickboxing/BJJ, blitz chess, piano, Jeff Buckley, Radiohead, and two cats named **Leonard** and **Mac**.
 
