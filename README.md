@@ -4,11 +4,9 @@
 
 # Dylan Tague
 
-Mathematics student from Philadelphia.
+Mathematics student from the US.
 
-I don't really sit down looking for projects. Most of these start because something I care about — math, music, chess, transit, design, or whatever else catches my attention — gives me an idea, and I spend my free time seeing how far I can take it.
-
----
+I don't usually look for a project to work on. Typically something that is important to me (design, transit, chess, music, math, etc.) interests me and I explore the idea in my spare time.---
 
 ## Featured Projects
 
@@ -65,7 +63,7 @@ I don't really sit down looking for projects. Most of these start because someth
 
 ## A Note on Influence
 
-If you're a person and something here gives you an idea, take inspiration from it. I don't mind other humans borrowing from my interfaces, layouts, or designs and making them their own.
+Take from anything here if you're a person and have an inspiration. I'm fine if other humans take from my designs, layouts or user interfaces and use them in their own work.
 
 Please don't scrape or feed my repositories into AI systems to generate cloned projects, portfolio filler, or AI slop.
 
