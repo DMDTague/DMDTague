@@ -4,7 +4,7 @@
 
 # Dylan Tague
 
-Mathematics student from the US.
+Undergrad Math student from the US.
 
 I don't usually look for a project to work on. Typically something that is important to me (design, transit, chess, music, math, etc.) interests me and I explore the idea in my spare time.---
 
